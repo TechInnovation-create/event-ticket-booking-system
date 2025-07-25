@@ -1,6 +1,6 @@
 # 🎫 Event Ticket Booking System
 
-A professional, modern event ticket booking application built with Java Swing for **BIT 4043 Object-Oriented Programming** course.
+A professional, modern event ticket booking application built with Java Swing
 
 ## ✨ Key Features
 
